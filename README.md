@@ -1,1 +1,1 @@
-# pest_detection_and_pesticide_reccomendation_system
+# pest_detection_system
