@@ -1,0 +1,7 @@
+# Ignore only datasets, keep code and configs tracked
+/data/
+/processed_data/
+/models/
+!/*.py
+!/*.ipynb
+!/.gitignore
